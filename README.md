@@ -5,7 +5,7 @@ before:
 
 pip3 install pyppeteer
 
-使用方法:
+How to use:
 
 modify the pbList
 
